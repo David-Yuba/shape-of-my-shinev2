@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-1: #E5E5E5;
+  --background-2: #232323;
+  --background-3: #AEAFB0;
+  --background-4: #951616;
+  --font-color-1: black;
+  --font-color-2: #CAD2E5;
+  --font-color-3: #E4E8F2;
+  --cta-color-1: #951616;
+  --cta-color-2: #E5966F;
+  --cta-color-3: #F2CBB7;
+  --accent-primary-1: #B1B8C9;
+  --accent-primary-2: #d1d6e2;
+  --accent-primary-3: #B1B8C9;
+  --accent-secondary-1: #65CE5D;
+  --accent-secondary-2: #8BDA85;
+  --accent-secondary-3: #B2E6AE;
+  --accent-secondary-4: #D8F3D6;
+  --shadow-color-1: #5f5f5f;
+}
+ 
+body {
+  display: flex;
+  width: 100vw;
+  overflow: hidden;
+  justify-content: center;
+  height:fit-content;
+  background: /* radial-gradient(
+      circle at 100% 200%,
+      var(--accent-primary-1),
+      transparent
+    ), */
+    var(--background-1);
+  /* overflow: hidden; */
+}
+
+.fade-out {
+  transition: opacity cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+  /* animation: 6s fa forwards; */
+}
+
+.wiggle{
+  animation:2s wig cubic-bezier(0.075, 0.82, 0.165, 1) 
+}
+
+input{
+  background:transparent;
+
+}
+
+@keyframes wig{
+  from{
+    opacity:100;
+  }
+  25%{
+    opacity:0;
+  }
+  to{
+    opacity:100;
+  }
+}
+
+@keyframes fa{
+  from{
+    opacity:100;
+  }
+  25%{
+    opacity:100;
+  }
+  to{
+    opacity:0;
+    display: none;
+  }
+}
+
+/* :root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+} */

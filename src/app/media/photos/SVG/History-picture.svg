@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510.5 534.35">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Playbill, Playbill;
+        font-size: 55.03px;
+      }
+
+      .cls-2 {
+        font-size: 46.46px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Broadway, Broadway;
+      }
+
+      .cls-4 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-5 {
+        font-family: Corbel, Corbel;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-size: 40.8px;
+      }
+
+      .cls-3 {
+        font-size: 50.18px;
+      }
+
+      .cls-10 {
+        font-size: 61.78px;
+      }
+
+      .cls-10, .cls-11, .cls-9 {
+        font-family: Impact, Impact;
+      }
+
+      .cls-12 {
+        font-family: Gabriola, Gabriola;
+        font-size: 33px;
+      }
+
+      .cls-6 {
+        font-family: BritannicBold, 'Britannic Bold';
+      }
+
+      .cls-7 {
+        font-family: CascadiaCode-Roman, 'Cascadia Code';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-13 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-14 {
+        font-family: Lato-Regular, Lato;
+        font-size: 26.28px;
+      }
+
+      .cls-15 {
+        font-family: SweetSansPro-ExLight, 'Sweet Sans Pro';
+        font-size: 55.67px;
+        font-weight: 300;
+      }
+
+      .cls-11 {
+        font-size: 53.79px;
+      }
+
+      .cls-16 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-17 {
+        font-family: AbrilFatface-Regular, 'Abril Fatface';
+        font-size: 45.38px;
+      }
+
+      .cls-8 {
+        font-family: Microsoft-Yi-Baiti, 'Microsoft Yi Baiti';
+        font-style: italic;
+      }
+
+      .cls-18 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-19 {
+        font-family: AcuminVariableConcept, 'Acumin Variable Concept';
+        font-size: 54.5px;
+        font-variation-settings: 'wght' 194, 'wdth' 100, 'slnt' 0;
+      }
+
+      .cls-20 {
+        font-family: MicrosoftUighur, 'Microsoft Uighur';
+        font-size: 65.49px;
+      }
+
+      .cls-21 {
+        font-family: Onyx, Onyx;
+        font-size: 129.48px;
+      }
+
+      .cls-22 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <text class="cls-21" transform="translate(160.13 297.53)"><tspan x="0" y="0">Son Cubano</tspan></text>
+      <text class="cls-15" transform="translate(258.51 83.94)"><tspan class="cls-18" x="0" y="0">J</tspan><tspan x="36.8" y="0">azz</tspan></text>
+      <text class="cls-20" transform="translate(0 192.41)"><tspan x="0" y="0">Cha Cha Cha</tspan></text>
+      <text class="cls-8" transform="translate(209.99 395.84) rotate(90)"><tspan x="0" y="0">Ballet</tspan></text>
+      <text class="cls-7" transform="translate(207 389.79)"><tspan x="0" y="0">Boogaloo</tspan></text>
+      <text class="cls-10" transform="translate(404.5 391.24)"><tspan x="0" y="0">Afro</tspan></text>
+      <text class="cls-11" transform="translate(160.33 516.56)"><tspan class="cls-22" x="0" y="0">Y</tspan><tspan x="23.03" y="0">oruba</tspan></text>
+      <text class="cls-9" transform="translate(161.77 305.14) rotate(90)"><tspan x="0" y="0">Orishas</tspan></text>
+      <text class="cls-6" transform="translate(261.72 96.56) rotate(90)"><tspan x="0" y="0">Clave</tspan></text>
+      <text class="cls-19" transform="translate(106.32 199.81) rotate(90)"><tspan x="0" y="0">On1</tspan></text>
+      <text class="cls-6" transform="translate(207.99 345.96)"><tspan x="0" y="0">On2</tspan></text>
+      <text class="cls-5" transform="translate(59.63 461.65)"><tspan x="0" y="0">Danzon</tspan></text>
+      <text class="cls-12" transform="translate(409.89 330.15)"><tspan x="0" y="0">Makuta</tspan></text>
+      <text class="cls-17" transform="translate(239.13 436.25)"><tspan class="cls-16" x="0" y="0">R</tspan><tspan x="31.13" y="0">umba</tspan></text>
+      <text class="cls-1" transform="translate(317.84 45.87)"><tspan x="0" y="0">Salsa</tspan></text>
+      <text class="cls-14" transform="translate(401.39 401.49) rotate(90)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan x="12.77" y="0">umbao</tspan></text>
+      <text class="cls-3" transform="translate(393.26 43.59)"><tspan class="cls-4" x="0" y="0">Y</tspan><tspan x="32.54" y="0">ou</tspan></text>
+      <text class="cls-2" transform="translate(305.45 347.18)"><tspan x="0" y="0">Me</tspan></text>
+    </g>
+  </g>
+</svg>
